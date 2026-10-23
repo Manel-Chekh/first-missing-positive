@@ -1,5 +1,5 @@
 ﻿def first_missing_positive(nums):
-    # The answer is always between 1 and len(nums) + 1
+
     seen = set(nums)
     n = 1
     while n in seen:
