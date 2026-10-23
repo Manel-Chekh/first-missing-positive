@@ -21,4 +21,4 @@ for nums, expected in tests:
     assert result == expected, f"Echec sur {nums}: {result} au lieu de {expected}"
     print(nums, "->", result)
 
-print("Tous les tests passent")
+
