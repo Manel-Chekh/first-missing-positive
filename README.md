@@ -8,4 +8,10 @@ Example: [0, -2, 1, 2] -> 3
 The answer is always between 1 and len(nums) + 1. Put the numbers in a set, then test 1, 2, 3... until one is missing. Time O(n), memory O(n).
 
 ## Run
+Interactive (type your own array):
+
     python solution.py
+
+Built-in tests:
+
+    python solution.py --test
